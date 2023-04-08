@@ -1,2 +1,2 @@
-# it-academy-logos-frontend.github
+# pchellka-first-project.github.io
 First project
